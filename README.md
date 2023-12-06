@@ -39,7 +39,7 @@ assessment.
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by leding clud case study upgrad
+- This project was inspired by lending club case study upgrad
 - References if any [upgrad](https://learn.upgrad.com/course/5761/segment/43898/256425/784045/3940139)
 - This project was based on [this tutorial](https://lendingclub.com/browse/loanDetail).
 
